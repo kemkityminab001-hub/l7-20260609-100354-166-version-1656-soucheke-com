@@ -1,8 +1,0 @@
-{
-  "name": "最新影片合集",
-  "short_name": "最新影片合集",
-  "start_url": "./index.html",
-  "display": "standalone",
-  "background_color": "#ffffff",
-  "theme_color": "#f43f5e"
-}
